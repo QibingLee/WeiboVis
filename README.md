@@ -9,7 +9,7 @@ It is built five years ago, and therefore some functions may be deprecated.
 <div align=center><img width="55%" height="55%" src="figure/1.png"/></div>
 
 2. Hot Topic Discovery
-<div align=center><img width="70%" height="70%" src="figure/3.png"/> <img width="60%" height="60%" src="figure/4.png"/></div>
+<div align=center><img width="45%" height="45%" src="figure/3.png"/>    <img width="40%" height="40%" src="figure/2.png"/></div>
 
 3. Topic propagation
 <div align=center><img width="60%" height="60%" src="figure/2.png"/></div>
