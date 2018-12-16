@@ -1,0 +1,27 @@
+{
+	chart: {
+		type: 'bar'
+	},
+	title: {
+		text: '微博柱状图'
+	},
+	subtitle: {
+		text: 'Source: 微博数据PM0608'
+	},
+	xAxis: {
+		categories: ['自由', '音乐','听歌','篮球','书','电影','美食','吃','动漫','微博','宅','旅行','游泳',
+		'上网','摄影','睡觉','活泼'],	
+		title: {
+			text: null
+		}
+	},
+	yAxis: {
+		min: 0,
+		title: {
+			text: '单位 (百人)',
+			align: 'high'
+		},
+		labels: {
+			overflow: 'justify'
+		}
+}

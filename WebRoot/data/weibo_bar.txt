@@ -1,0 +1,26 @@
+﻿{
+	chart: {
+		type: 'bar'
+	},
+	title: {
+		text: '微博柱状图'
+	},
+	subtitle: {
+		text: 'Source: 微博数据PM0608'
+	},
+	xAxis: {
+		categories: ['男', '女'],	
+		title: {
+			text: null
+		}
+	},
+	yAxis: {
+		min: 0,
+		title: {
+			text: '单位 (百万人)',
+			align: 'high'
+		},
+		labels: {
+			overflow: 'justify'
+		}
+}

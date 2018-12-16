@@ -1,0 +1,12 @@
+﻿{word:'移动互联网',count:10}
+,{word:'电影',count:30}
+,{word:'篮球',count:60}
+,{word:'足球',count:20}
+,{word:'hello',count:28}
+,{word:'zzf',count:56}
+,{word:'可视化',count:57}
+,{word:'自然语言处理',count:95}
+,{word:'NLP',count:68}
+,{word:'NLP1',count:55}
+,{word:'NLP2',count:61}
+,{word:'NLP3',count:38}

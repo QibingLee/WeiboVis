@@ -1,0 +1,9 @@
+﻿{word:'海尔',count60}
+,{word:'生活',count:27}
+,{word:'时尚',count:18}
+,{word:'全球',count15}
+,{word:'未来',count:13}
+,{word:'水晶',count:13}
+,{word:'微博',count:10}
+,{word:'转发',count:100}
+,{word:'设计师',count:18}
